@@ -36,3 +36,6 @@ The project generates:
 **Syeda Zainab Bukhari**  
 BS Telecommunication Engineering  
 University of Engineering and Technology (UET) Taxila
+## Output Preview
+
+![Output Waveform](output.png)
